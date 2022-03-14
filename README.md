@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/99158697/158097040-593ec9df-8ea2-40ba-8556-68da68a076d2.png)
 
 - 🌱 Atualmente estou aprendendo: Python, R, SQL Server e Power BI
-- ⚡ Curiosidade sobre mim: Pro Player Fifa 🎮
+- ⚡ Curiosidade sobre mim: Pro Player Fifa
 - 😄 Pronomes: Ele/Dele
 
 <div> 
