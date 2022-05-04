@@ -1,7 +1,7 @@
 ## Bem vindo!
 ![image](https://user-images.githubusercontent.com/99158697/158097040-593ec9df-8ea2-40ba-8556-68da68a076d2.png)
 ## Detalhes
-- 🌱 Atualmente estou estudando: Python, R, SQL Server e Power BI
+- 🌱 Atualmente estou estudando: Segurança da informação
 - ⚡ Curiosidade sobre mim: Pro Player Fifa
 - 😄 Pronomes: Ele/Dele
 <div> 
